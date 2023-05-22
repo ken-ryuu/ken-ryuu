@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-# $\textcolor{Periwinkle}{{We\ stood\ a\ moment\ so\ in\ a\ {\color{Orchid}Strange}}\ world!}$
+# $\textcolor{Periwinkle}{{we\ stood\ a\ moment\ so\ in\ a\ {\color{Orchid}strAnGE}}\ world!}$
 ```diff
 # 🐧 Frost>
 ```
