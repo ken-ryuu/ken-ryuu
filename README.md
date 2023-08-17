@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 
 # $\textcolor{Periwinkle}{{we\ stood\ a\ moment\ so\ in\ a\ {\color{Orchid}strAnGE}}\ world!}$
+<!--
 ```diff
 # 🐧 Frost>
 ```
-
+-->
 <!--
 ```diff
 - text in red
